@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+setup.py
+plottymcplotface/__init__.py
+plottymcplotface/chart.py
+plottymcplotface/cli.py
+plottymcplotface.egg-info/PKG-INFO
+plottymcplotface.egg-info/SOURCES.txt
+plottymcplotface.egg-info/dependency_links.txt
+plottymcplotface.egg-info/entry_points.txt
+plottymcplotface.egg-info/top_level.txt
